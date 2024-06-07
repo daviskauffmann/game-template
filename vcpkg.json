@@ -3,7 +3,6 @@
     "name": "game",
     "version-semver": "0.0.0",
     "dependencies": [
-        "fmt",
         "sdl2",
         "sdl2-image",
         "sdl2-mixer",

@@ -4,7 +4,7 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>
 #include <cstddef>
-#include <fmt/format.h>
+#include <format>
 #include <string>
 
 namespace game
@@ -25,10 +25,10 @@ namespace game
             const std::size_t y,
             const std::size_t w,
             const SDL_Color &fg,
-            const std::string &fmt,
-            Args... args) const
+            const std::format_string<Args...> fmt,
+            Args &&...args) const
         {
-            const std::string text = fmt::vformat(fmt, fmt::make_format_args(std::forward<Args>(args)...));
+            const auto text = std::vformat(fmt.get(), std::make_format_args(args...));
 
             const auto surface = TTF_RenderText_Blended_Wrapped(ttf_font, text.c_str(), fg, static_cast<uint32_t>(w));
             const auto texture = SDL_CreateTextureFromSurface(renderer, surface);
