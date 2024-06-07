@@ -1,5 +1,5 @@
-#ifndef SHMUP_SDL_HPP
-#define SHMUP_SDL_HPP
+#ifndef SDL_HPP
+#define SDL_HPP
 
 #include <SDL2/SDL.h>
 #include <cstdint>

@@ -1,5 +1,5 @@
-#ifndef SHMUP_SDL_MIXER_HPP
-#define SHMUP_SDL_MIXER_HPP
+#ifndef SDL_MIXER_HPP
+#define SDL_MIXER_HPP
 
 namespace game
 {

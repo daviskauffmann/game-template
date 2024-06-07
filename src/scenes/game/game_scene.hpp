@@ -1,5 +1,5 @@
-#ifndef SHMUP_GAME_HPP
-#define SHMUP_GAME_HPP
+#ifndef SCENES_GAME_SCENE_HPP
+#define SCENES_GAME_SCENE_HPP
 
 #include "../../scene.hpp"
 #include <cstddef>

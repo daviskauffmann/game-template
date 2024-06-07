@@ -1,5 +1,5 @@
-#ifndef SHMUP_SOUND_HPP
-#define SHMUP_SOUND_HPP
+#ifndef SOUND_HPP
+#define SOUND_HPP
 
 #include <SDL2/SDL_mixer.h>
 

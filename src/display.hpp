@@ -1,5 +1,5 @@
-#ifndef SHMUP_DISPLAY_HPP
-#define SHMUP_DISPLAY_HPP
+#ifndef DISPLAY_HPP
+#define DISPLAY_HPP
 
 #include <SDL2/SDL.h>
 #include <cstddef>

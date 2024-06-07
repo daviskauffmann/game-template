@@ -1,5 +1,5 @@
-#ifndef SHMUP_AUDIO_HPP
-#define SHMUP_AUDIO_HPP
+#ifndef AUDIO_HPP
+#define AUDIO_HPP
 
 #include <SDL2/SDL_mixer.h>
 #include <cstdint>

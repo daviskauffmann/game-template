@@ -1,5 +1,5 @@
-#ifndef SHMUP_SDL_TTF_HPP
-#define SHMUP_SDL_TTF_HPP
+#ifndef SDL_TTF_HPP
+#define SDL_TTF_HPP
 
 namespace game
 {

@@ -1,5 +1,5 @@
-#ifndef SHMUP_SCENE_HPP
-#define SHMUP_SCENE_HPP
+#ifndef SCENE_HPP
+#define SCENE_HPP
 
 #include <SDL2/SDL.h>
 #include <cstdint>

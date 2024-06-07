@@ -1,5 +1,5 @@
-#ifndef SHMUP_TEXTURE_HPP
-#define SHMUP_TEXTURE_HPP
+#ifndef TEXTURE_HPP
+#define TEXTURE_HPP
 
 #include <SDL2/SDL.h>
 
