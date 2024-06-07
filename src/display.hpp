@@ -1,5 +1,5 @@
-#ifndef DISPLAY_HPP
-#define DISPLAY_HPP
+#ifndef GAME_DISPLAY_HPP
+#define GAME_DISPLAY_HPP
 
 #include <SDL2/SDL.h>
 #include <cstddef>

@@ -1,5 +1,5 @@
-#ifndef SDL_IMAGE_HPP
-#define SDL_IMAGE_HPP
+#ifndef GAME_SDL_IMAGE_HPP
+#define GAME_SDL_IMAGE_HPP
 
 namespace game
 {

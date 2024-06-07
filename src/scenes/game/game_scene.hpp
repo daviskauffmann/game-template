@@ -1,5 +1,5 @@
-#ifndef SCENES_GAME_SCENE_HPP
-#define SCENES_GAME_SCENE_HPP
+#ifndef GAME_SCENES_GAME_SCENE_HPP
+#define GAME_SCENES_GAME_SCENE_HPP
 
 #include "../../scene.hpp"
 #include <cstddef>

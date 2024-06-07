@@ -1,5 +1,5 @@
-#ifndef AUDIO_HPP
-#define AUDIO_HPP
+#ifndef GAME_AUDIO_HPP
+#define GAME_AUDIO_HPP
 
 #include <SDL2/SDL_mixer.h>
 #include <cstdint>

@@ -1,5 +1,5 @@
-#ifndef FONT_HPP
-#define FONT_HPP
+#ifndef GAME_FONT_HPP
+#define GAME_FONT_HPP
 
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_ttf.h>

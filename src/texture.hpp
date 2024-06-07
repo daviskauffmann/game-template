@@ -1,5 +1,5 @@
-#ifndef TEXTURE_HPP
-#define TEXTURE_HPP
+#ifndef GAME_TEXTURE_HPP
+#define GAME_TEXTURE_HPP
 
 #include <SDL2/SDL.h>
 

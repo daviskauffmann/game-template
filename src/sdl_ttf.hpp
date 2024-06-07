@@ -1,5 +1,5 @@
-#ifndef SDL_TTF_HPP
-#define SDL_TTF_HPP
+#ifndef GAME_SDL_TTF_HPP
+#define GAME_SDL_TTF_HPP
 
 namespace game
 {

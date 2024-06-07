@@ -1,5 +1,5 @@
-#ifndef SOUND_HPP
-#define SOUND_HPP
+#ifndef GAME_SOUND_HPP
+#define GAME_SOUND_HPP
 
 #include <SDL2/SDL_mixer.h>
 

@@ -1,5 +1,5 @@
-#ifndef SDL_HPP
-#define SDL_HPP
+#ifndef GAME_SDL_HPP
+#define GAME_SDL_HPP
 
 #include <SDL2/SDL.h>
 #include <cstdint>

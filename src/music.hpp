@@ -1,5 +1,5 @@
-#ifndef MUSIC_HPP
-#define MUSIC_HPP
+#ifndef GAME_MUSIC_HPP
+#define GAME_MUSIC_HPP
 
 #include <SDL2/SDL_mixer.h>
 
